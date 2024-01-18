@@ -33,7 +33,7 @@ various components to ensure a comprehensive and tailored solution.
 
 
 The model is a star schema.
-There are 5 dimensuion tables and 1 fact table with a seperated Dax measures table containing all the dax measures. The dimension are all joined to the fact table with a one-to-many relationship.
+There are 5 dimension tables and 1 fact table with a seperated Dax measures table containing all the dax measures. The dimension are all joined to the fact table with a one-to-many relationship.
 
 ## Visualization:
 
