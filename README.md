@@ -45,11 +45,16 @@ You can interact with the report {here}
 (https://app.powerbi.com/groups/me/reports/c3696476-6521-4525-9d6d-87e5931e4a1f/ReportSection6ef62836a704e2300032?experience=power-bi)
 
 ### Sales report 1 visual
+
 In this Power BI sales analysis, I skillfully crafted a dynamic and comprehensive model. I implemented advanced measures, forecasting models for two years, and insightful analyses such as revenue comparisons to the same period last year and month-on-month variations.
+
 ![Sales_Report_1](https://github.com/habeebsalaudeen/Sales-Company-Analysis/assets/97491265/a79f644e-15bf-48b6-b1ed-71846cefd721)
 
+
 ### Sales report 2 visual
+
 The use of slicers and filters allows for interactive exploration, and judicious application of various charts, including stacked bar, clustered column, donut, ribbon, matrix, and waterfall charts, ensures a visually compelling representation of total revenue, forecasting insights, and category-wise performance across regions. This analysis not only provides detailed segment-level insights but also allows users to navigate and discern trends effortlessly, making it a powerful tool for strategic decision-making.
+
 ![Sales_Report_2](https://github.com/habeebsalaudeen/Sales-Company-Analysis/assets/97491265/00273e11-8562-4ae2-a345-750fd8a4d728)
 
 ## Conclusion and Recommendation
