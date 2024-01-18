@@ -54,9 +54,9 @@ The use of slicers and filters allows for interactive exploration, and judicious
 
 ## Conclusion and Recommendation
 The insight generated from the report shows:
-- The highest generated revenue by MONTH, SAME PERIOD LAST YEAR, MONTH ON MOTH REVENUE = (November)
-- The highest generated revenue by YEAR = (2017)
+- The highest generated revenue by Month, Same period last year, Month on month revenue = (NOVEMBER)
+- The highest generated revenue by Year = (2017)
 - Revenue Forecast shown from 2017-2018
-- The highest generated revenue by SEGMENT = (Consumer)
-- The highest generated revenue by REGION = (South)
-- The highest generated revenue by CATEGORY = (Technology)
+- The highest generated revenue by Segment = (CONSUMER)
+- The highest generated revenue by REGION = (SOUTH)
+- The highest generated revenue by Category = (TECHNOLOGY)
