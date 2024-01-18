@@ -19,7 +19,8 @@ dummy datasets to demonstrate capabilities of Power BI.
 - Data Modeling and Relationships
 - DAX (Data Analysis Expressions)
 - Aggregation Techniques
-- Forecasting Models
+- Forecasting 
+
 - Comparative Analysis
 - Filters and Slicers
 - Buttons
@@ -34,3 +35,28 @@ various components to ensure a comprehensive and tailored solution.
 The model is a star schema.
 There are 5 dimensuion tables and 1 fact table with a seperated Dax measures table containing all the dax measures. The dimension are all joined to the fact table with a one-to-many relationship.
 
+## Visualization:
+
+The report comprises 2 pages:
+1. Sales report 1
+2. Sales report 2
+
+You can interact with the report {here} 
+(https://app.powerbi.com/groups/me/reports/c3696476-6521-4525-9d6d-87e5931e4a1f/ReportSection6ef62836a704e2300032?experience=power-bi)
+
+![Sales_Report_1](https://github.com/habeebsalaudeen/Sales-Company-Analysis/assets/97491265/a79f644e-15bf-48b6-b1ed-71846cefd721)
+
+In this Power BI sales analysis, I skillfully crafted a dynamic and comprehensive model. I implemented advanced measures, forecasting models for two years, and insightful analyses such as revenue comparisons to the same period last year and month-on-month variations.
+
+The use of slicers and filters allows for interactive exploration, and judicious application of various charts, including stacked bar, clustered column, donut, ribbon, matrix, and waterfall charts, ensures a visually compelling representation of total revenue, forecasting insights, and category-wise performance across regions. This analysis not only provides detailed segment-level insights but also allows users to navigate and discern trends effortlessly, making it a powerful tool for strategic decision-making.
+
+![Sales_Report_2](https://github.com/habeebsalaudeen/Sales-Company-Analysis/assets/97491265/00273e11-8562-4ae2-a345-750fd8a4d728)
+
+## Conclusion and Recommendation
+The insight generated from the report shows:
+- The highest generated revenue by MONTH, SAME PERIOD LAST YEAR, MONTH ON MOTH REVENUE = (November)
+- The highest generated revenue by YEAR = (2017)
+- Revenue Forecast shown from 2017-2018
+- The highest generated revenue by SEGMENT = (Consumer)
+- The highest generated revenue by REGION = (South)
+- The highest generated revenue by CATEGORY = (Technology)
