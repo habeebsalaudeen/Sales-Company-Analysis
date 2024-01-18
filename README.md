@@ -28,5 +28,9 @@ dummy datasets to demonstrate capabilities of Power BI.
 In constructing our sales analysis model in Power BI, I took a hands-on approach, personally deriving and connecting 
 various components to ensure a comprehensive and tailored solution. 
 
+![ModeView](https://github.com/habeebsalaudeen/Sales-Company-Analysis/assets/97491265/e1102430-4fd3-4cf4-a091-1e5482fd57f1)
+
+
 The model is a star schema.
 There are 5 dimensuion tables and 1 fact table with a seperated Dax measures table containing all the dax measures. The dimension are all joined to the fact table with a one-to-many relationship.
+
