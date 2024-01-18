@@ -10,3 +10,16 @@ decisions.
 dummy datasets to demonstrate capabilities of Power BI.
 
 ## Problem Statement
+1. Highest generated revenue by months, year, segment, region and category.
+2. Revenue forecast for the next 2 years
+3. Revenue month on month variance by month
+4. Revenue same period last year by segment, month.
+
+## Skills / Concepts Demonstrated
+- Data Modeling and Relationships
+- DAX (Data Analysis Expressions)
+- Aggregation Techniques
+- Forecasting Models
+- Comparative Analysis
+- Filters and Slicers
+- Buttons
